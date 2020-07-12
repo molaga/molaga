@@ -7,7 +7,7 @@
 * 📝 Founder of [SchemaUI](https://github.com/slocking/schemaui)
 * &lt;/&gt; Web/App/Desktop developer
 
-# 📬 &lt;contact /&gt;
+# &lt;contact /&gt;
 
 * bar [@] molaga.com
 
