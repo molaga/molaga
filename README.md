@@ -4,7 +4,7 @@
 # &lt;who-am-i /&gt;
 
 * ☕ Currently a Fullstack team lead
-* 📝 Founder of [SchemaUI](https://github.com/slocking/schemaui)
+* 📝 Creator of [SchemaUI](https://github.com/slocking/schemaui)
 * &lt;/&gt; Web/App/Desktop developer
 
 # &lt;contact /&gt;
